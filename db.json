@@ -1,0 +1,427 @@
+[
+    {
+        "name":"Submersible Pumps",
+        "category":"Pumps",
+        "brand":"Crompton",
+        "title":"PowerHouse 1HP 10 Stage Oil Filled Submersible Pump",
+        "img":"https://static1.industrybuying.com/products/pumps/submersible-pumps/openwell-submersible-pump/PUM.SEW.42874532_1668035653070.webp",
+        "price":4390,
+        "cutoffPrice":884,
+        "Discount":"20%"
+    },
+    {
+        "name":"Submersible Pumps",
+        "category":"Pumps",
+        "brand":"Kirloskar",
+        "title":"Jindal 1HP 4inch Borewell Submersible Pump with Control Panel",
+        "img":"https://static1.industrybuying.com/products/pumps/submersible-pumps/borewell-submersible-pumps/PUM.BOR.52792416_1677846075095.webp",
+        "price":74734,
+        "cutoffPrice":5680,
+        "Discount":"23%"
+    },
+    {
+        "name":"Submersible Pumps",
+        "category":"Pumps",
+        "brand":"Chetak",
+        "title":"Jindal 1HP Single Phase Oil Filled Borewell Submersible Pump with Control Panel and 30m Safety Wire",
+        "img":"https://static1.industrybuying.com/products/pumps/submersible-pumps/openwell-submersible-pump/PUM.SEW.42874532_1668035653070.webp",
+        "price":5090,
+        "cutoffPrice":5090,
+        "Discount":"0%"
+    },
+    {
+        "name":"Submersible Pumps",
+        "category":"Pumps",
+        "brand":"CRI",
+        "title":"Jindal 1HP 4 Single Phase Oil Filled Borewell Submersible Pump with Control Panel",
+        "img":"https://static1.industrybuying.com/products/pumps/submersible-pumps/openwell-submersible-pump/PUM.SEW.42874532_1668035653070.webp",
+        "price":6372,
+        "cutoffPrice":4990,
+        "Discount":"21%"
+    },
+    {
+        "name":"Submersible Pumps",
+        "category":"Pumps",
+        "brand":"Ultron",
+        "title":"Ultron 12.5HP V6 Radial Flow Submersible Pump without Motor 15 Stage UMNP - 1215 ",
+        "img":"https://static1.industrybuying.com/products/pumps/submersible-pumps/borewell-submersible-pumps/PUM.BOR.67132826_1668384623205.webp",
+        "price":20051,
+        "cutoffPrice":16800,
+        "Discount":"16%"
+    },
+
+
+
+    {
+        "name":"Booster Pumps",
+        "category":"Pumps",
+        "brand":"Wilo",
+        "title":"Wilo 2x2.02HP MHIL-BC Multistage Pressure Booster System 8014960 ",
+        "img":"https://static1.industrybuying.com/products/pumps/booster-pumps/booster-pressure-pump/PAC.BUB.68483030_1679478385392.webp",
+        "price":311308,
+        "cutoffPrice":299000,
+        "Discount":"3%"
+    },
+    {
+        "name":"Booster Pumps",
+        "category":"Pumps",
+        "brand":"Crompton",
+        "title":"Crompton Sapphire II Single Phase 0.5 HP Booster Pressure Pump",
+        "img":"https://static1.industrybuying.com/products/pumps/booster-pumps/booster-pressure-pump/PUM.BOO.19357381_1677845934355.webp",
+        "price":5895,
+        "cutoffPrice":4990,
+        "Discount":"15%"
+    },
+    {
+        "name":"Booster Pumps",
+        "category":"Pumps",
+        "brand":"V-Guard",
+        "title":"V-Guard VCB14-FO30 Single Phase 0.18 HP Booster Pressure Pump",
+        "img":"https://static1.industrybuying.com/products/pumps/booster-pumps/booster-pressure-pump/PUM.DOM.75957785_1668219234737.webp",
+        "price":7000,
+        "cutoffPrice":4990,
+        "Discount":"28%"
+    },
+    {
+        "name":"Booster Pumps",
+        "category":"Pumps",
+        "brand":"JES",
+        "title":"JES Eco 50 Single Phase 0.5 HP Booster Pressure Pump",
+        "img":"https://static1.industrybuying.com/products/pumps/booster-pumps/booster-pressure-pump/PUM.BOO.104669233_1668131885767.webp",
+        "price":14750,
+        "cutoffPrice":5680,
+        "Discount":"61%"
+    },
+    {
+        "name":"Booster Pumps",
+        "category":"Pumps",
+        "brand":"Havells",
+        "title":"Havells 1 HP MMB Series Single Phase Pressure Pump MHPEVJ1X00",
+        "img":"https://static1.industrybuying.com/products/pumps/booster-pumps/booster-pressure-pump/PUM.BOO.77642157_1671628310505.webp",
+        "price":25429,
+        "cutoffPrice":17800,
+        "Discount":"30%"
+    },
+
+
+    {
+        "name":"Engines",
+        "category":"Pumps",
+        "brand":"Honda",
+        "title":"HONDA GX 80 FUEL EFFICENT OHV ENGINE - LG0240(2 HP)",
+        "img":"https://static1.industrybuying.com/products/pumps/engines/water-engines/PUM.PET.15406246_1667952353535.webp",
+        "price":23759,
+        "cutoffPrice":17900,
+        "Discount":"24%"
+    },
+    {
+        "name":"Engines",
+        "category":"Pumps",
+        "brand":"Gener",
+        "title":"Gener 10.5Kw Horizontal Shaft Engine HK460E",
+        "img":"https://static1.industrybuying.com/products/pumps/engines/water-engines/PUM.ENG.75462071_1668184067943.webp",
+        "price":65800,
+        "cutoffPrice":65800,
+        "Discount":"0%"
+    },
+    {
+        "name":"Engines",
+        "category":"Pumps",
+        "brand":"Kishan King",
+        "title":"Kishan King WP40 2.5 HP Water Engine Pump",
+        "img":"https://static1.industrybuying.com/products/pumps/engines/water-engines/PUM.WAT.47679130_1672060721202.webp",
+        "price":12800,
+        "cutoffPrice":12800,
+        "Discount":"0%"
+    },
+    {
+        "name":"Engines",
+        "category":"Pumps",
+        "brand":"Champ",
+        "title":"Champ 3600 Rpm Engine CH87",
+        "img":"https://static1.industrybuying.com/products/pumps/engines/water-engines/PUM.ENG.81231571_1667978003771.webp",
+        "price":13029,
+        "cutoffPrice":13029,
+        "Discount":"0%"
+    },
+    {
+        "name":"Engines",
+        "category":"Pumps",
+        "brand":"Neptune",
+        "title":"NEPTUNE SIMPLIFY FARMING 2.2 HP 2 Stroke Petrol Engine Water Pump Set (1.5-inch)",
+        "img":"https://static1.industrybuying.com/products/pumps/engines/water-engines/PUM.WAT.94078970_1668098597781.webp",
+        "price":21240,
+        "cutoffPrice":12900,
+        "Discount":"39%"
+    },
+
+
+
+
+
+
+
+
+    {
+        "name":"Rotary Pumps",
+        "category":"Pumps",
+        "brand":"ADI",
+        "title":"ADI Capacity 50 LPM Rotary Gear Oil Pump KD-100",
+        "img":"https://static1.industrybuying.com/products/pumps/rotary-pumps/rotary-gear-pumps/PU.RO.367957_1667862931141.webp",
+        "price":6880,
+        "cutoffPrice":6880,
+        "Discount":"0%"
+    },
+    {
+        "name":"Rotary Pumps",
+        "category":"Pumps",
+        "brand":"Rotodel",
+        "title":"Rotodel Capacity 30 LPM Standard Rotary Gear Pump HGN 075",
+        "img":"https://static1.industrybuying.com/products/pumps/rotary-pumps/rotary-gear-pumps/PU.RO.529080_1667883393034.webp",
+        "price":7990,
+        "cutoffPrice":7990,
+        "Discount":"0%"
+    },
+    {
+        "name":"Rotary Pumps",
+        "category":"Pumps",
+        "brand":"SHREE",
+        "title":"Shree Capacity 225LPM Rotary Gear Pump SA - 200",
+        "img":"https://static1.industrybuying.com/products/pumps/rotary-pumps/rotary-gear-pumps/PUM.ROT.103688997_1668079126853.webp",
+        "price":12851,
+        "cutoffPrice":11900,
+        "Discount":"7%"
+    },
+    {
+        "name":"Rotary Pumps",
+        "category":"Pumps",
+        "brand":"Svs",
+        "title":"SVS SS 50 Standard Rotary Gear Pump, Capacity 20 LPM",
+        "img":"https://static1.industrybuying.com/products/pumps/rotary-pumps/rotary-gear-pumps/PUM.ROT.86541918_1668294350151.webp",
+        "price":15800,
+        "cutoffPrice":15800,
+        "Discount":"0%"
+    },
+    {
+        "name":"Rotary Pumps",
+        "category":"Pumps",
+        "brand":"Durelo",
+        "title":"Durelo D-RBP-3R Rotary Barrel Pump",
+        "img":"https://static1.industrybuying.com/products/pumps/rotary-pumps/rotary-fuel-pump/PUM.ROT.36527653_1668292423713.webp",
+        "price":1680,
+        "cutoffPrice":1680,
+        "Discount":"0%"
+    },
+
+
+
+
+
+
+
+    {
+        "name":"Clutch Plate",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Valeo",
+        "title":"Valeo Fiat Jeep Compass Compass Clutch Set 843656",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/clutch-plate/AUT.CLU.75600103_1668193645656.webp",
+        "price":19701,
+        "cutoffPrice":13900,
+        "Discount":"29%"
+    },
+    {
+        "name":"Clutch Plate",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Luk",
+        "title":"Tata Safari Dicor/Sumo Grand/Xenon clutch and Pressure Plate -L-01424-0P13-03",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/clutch-plate/AU.CL.1481537_1667917501831.webp",
+        "price":11106,
+        "cutoffPrice":6990,
+        "Discount":"37%"
+    },
+    {
+        "name":"Clutch Plate",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Luk",
+        "title":"Mahindra Xylo E6,E8,D6,D8 clutch and Pressure Plate -L-01624-0G08-00",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/clutch-plate/AU.CL.1481537_1667917501831.webp",
+        "price":8762,
+        "cutoffPrice":5690,
+        "Discount":"35%"
+    },
+    {
+        "name":"Clutch Plate",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"MK Auto",
+        "title":"Fiat Jeep Compass Compass Clutch Set 843656",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/clutch-plate/AUT.CLU.75600103_1668193645656.webp",
+        "price":16701,
+        "cutoffPrice":16701,
+        "Discount":"0%"
+    },
+    {
+        "name":"Clutch Plate",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Exedy",
+        "title":"Exedy Fiat Jeep Compass Compass Clutch Set 843656",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/clutch-plate/AUT.CLU.75600103_1668193645656.webp",
+        "price":15000,
+        "cutoffPrice":15000,
+        "Discount":"0%"
+    },
+
+    {
+        "name":"Automotive Exterior",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Oscar",
+        "title":"Car Portable Fire Extinguisher",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/automotive-exterior/car-safety/AU.AU.EX.SA.313917_1667853532756.webp",
+        "price":1136,
+        "cutoffPrice":178,
+        "Discount":"84%"
+    },
+    {
+        "name":"Automotive Exterior",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Auto Oprema",
+        "title":"Black Car Body",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/automotive-exterior/car-cover/AUT.CAR.87504260_1670070750122.webp",
+        "price":1180,
+        "cutoffPrice":1180,
+        "Discount":"0%"
+    },
+    {
+        "name":"Automotive Exterior",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Enexoya",
+        "title":"Enexoya 100610 I-POP High Glossy Slim Door Edge Guards Set of 4-(Made in Korea) White",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/automotive-exterior/car-exterior-accessories/AUT.CAR.76842217_1668336536844.webp",
+        "price":381,
+        "cutoffPrice":138,
+        "Discount":"63%"
+    },
+    {
+        "name":"Automotive Exterior",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Prior",
+        "title":"Prior Licence Frame for Toyota Innova",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/automotive-exterior/car-exterior-accessories/AU.AU.EX.EX.1447483_1667910402181.webp",
+        "price":2163,
+        "cutoffPrice":1280,
+        "Discount":"40%"
+    },
+    {
+        "name":"Automotive Exterior",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Hotwheelz",
+        "title":"Hotwheelz 15 Inch Tyre Wheel Cover (Set of 4) for Ford Fiesta",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/automotive-exterior/car-exterior-accessories/AU.AU.EX.EX.325953_1667855709044.webp",
+        "price":2304,
+        "cutoffPrice":1580,
+        "Discount":"31%"
+    },
+
+
+    {
+        "name":"Vehicle Tools",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Royal",
+        "title":"Royal Denting Set 8 Pcs Set",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/vehicle-tools/garage-tools/AUT.GAR.94171230_1668105931295.webp",
+        "price":2790,
+        "cutoffPrice":2790,
+        "Discount":"0%"
+    },
+    {
+        "name":"Vehicle Tools",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Protul",
+        "title":"Protul 1/2 inch Drive Deep Socket Chrome Vanedium Steel 27Mm",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/vehicle-tools/garage-tools/AUT.GAR.12464353_1667954602327.webp",
+        "price":5711,
+        "cutoffPrice":3990,
+        "Discount":"30%"
+    },
+    {
+        "name":"Vehicle Tools",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"BIG BULL",
+        "title":"Big Bull Hydraulic Bottle Jack for Car (50 Ton) - BBF5004",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/vehicle-tools/car-jacks-and-stands/AU.VE.270204_1667845861138.webp",
+        "price":14160,
+        "cutoffPrice":8680,
+        "Discount":"38%"
+    },
+    {
+        "name":"Vehicle Tools",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Yato",
+        "title":"Yato Hand-Held Vacuum Pump Yt-0673",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/vehicle-tools/garage-tools/AUT.GAR.88135045_1677212003809.webp",
+        "price":2821,
+        "cutoffPrice":2380,
+        "Discount":"15%"
+    },
+    {
+        "name":"Vehicle Tools",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Voltz",
+        "title":"Voltz RSC-2050180 Hydraulic Cylinders Jack Solid with Hand pump (20T 2Inch)",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/vehicle-tools/car-jacks-and-stands/AUT.CAR.86489995_1668287265922.webp",
+        "price":24990,
+        "cutoffPrice":14800,
+        "Discount":"40%"
+    },
+
+
+    {
+        "name":"Auto Replacement",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Gabriel",
+        "title":"Gabriel Mahindra XUV 500 AWD Shock Absorbers Front RH AM-W14341",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/auto-replacement/auto-suspension/shock-absorbers/AU.AU.AU.SH.752376_1667898415095.webp",
+        "price":3580,
+        "cutoffPrice":3580,
+        "Discount":"0%"
+    },
+    {
+        "name":"Auto Replacement",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Monroe",
+        "title":"Monroe Rear Full Kit for Tata Indigo M16280012",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/auto-replacement/auto-suspension/bushes/BU.744128_1667896962772.webp",
+        "price":1280,
+        "cutoffPrice":1280,
+        "Discount":"0%"
+    },
+    {
+        "name":"Auto Replacement",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"RM",
+        "title":"RM V 030 004 Slotted Brake Disc for Cruze",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/auto-replacement/auto-brake-disc/AUT.AUT.35598320_1668193533154.webp",
+        "price":5948,
+        "cutoffPrice":5380,
+        "Discount":"9%"
+    },
+    {
+        "name":"Auto Replacement",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Bosch",
+        "title":"Bosch F 002 H21 894-8F8 Ribbed V-Belts",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/auto-replacement/automotive-belts/AU.AU.AU.AU2.334753_1667857210980.webp",
+        "price":128,
+        "cutoffPrice":128,
+        "Discount":"0%"
+    },
+    {
+        "name":"Auto Replacement",
+        "category":"Automotive Maintenance And Accessories",
+        "brand":"Starke",
+        "title":"Starke 443402 Suspension Ball Joint for Maruti Swift, Dzire, Ertiga N/M Set of 2",
+        "img":"https://static1.industrybuying.com/products/automotive-maintenance-and-accessories/auto-replacement/auto-suspension/ball-joint/AUT.BAL.65661461_1668197731563.webp",
+        "price":1355,
+        "cutoffPrice":899,
+        "Discount":"33%"
+    }
+]
