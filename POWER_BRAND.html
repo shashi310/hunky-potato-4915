@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./POWER_BRAND.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="main">
+    </div>
+</body>
+
+</html>
+<script>
+    let main = document.getElementById("main");
+    async function getData() {
+        let url = `https://mock-server-yarz.onrender.com/saws-chasers-?_limit=8`;
+        let res = await fetch(url);
+        let data = await res.json();
+        console.log(data)
+        Display(data)
+    }
+    getData()
+    function Display(data) {
+        main.innerHTML = "";
+        data.map((ele) => {
+            let div = document.createElement("div");
+            let img = document.createElement("img");
+            img.src = ele.img;
+            let name = document.createElement("h2");
+            name.textContent = ele.name;
+            let brand = document.createElement("p");
+            brand.textContent = `by ${ele.brand}`;
+            let hr = document.createElement("hr")
+            let priceDiv = document.createElement("div")
+            let discount = document.createElement("h3");
+            discount.textContent = ele.price;
+            let mainPrice = document.createElement("h3");
+            let p=ele.price.split(",")
+            p=p.join("")
+        
+            mainPrice.textContent =`RS. ${+p-100}`;
+            let brr = document.createElement("br");
+            let off = document.createElement("p");
+            off.textContent = `${Math.floor(Math.random() * (30 - 50) + 30)}% OFF`;
+            priceDiv.append(discount, mainPrice);
+            div.append(img, name, brand, hr, priceDiv, off);
+            main.append(div)
+        })
+    }
+</script>
