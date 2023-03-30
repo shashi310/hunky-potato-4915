@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landing page</title>
+    <style>
+        body{
+            margin: 0px 0px;
+            box-sizing: border-box;
+        }
+        h1{
+           font-size: 12px; 
+            text-align:right ;
+            margin-right: 5px;
+        }
+        #nav>img{
+            width: 60px;
+            margin-left: 30px;
+            height: 45px;
+           
+        }
+        button>img{
+            width: 10px;
+            
+        }
+        #down>img{
+            width: 20px;
+            margin-right: 30px;
+        }
+        #nav{
+            display: flex;
+            height: 60px;
+            justify-content: space-between;
+            
+            align-items: center;
+            background-color: rgb(35, 87, 87);
+        }
+        a{
+            text-decoration: none;
+            color: azure;
+        }
+        #a{
+            background-color: orangered;
+            color: antiquewhite;
+            border: none;
+            padding: 5px;
+        }
+        #cat{
+            width:100px;
+            height: 25px;
+            /* padding: 5px; */
+        }
+        #searchbox{
+            width: 250px;
+            height: 20px;
+            
+        }
+
+    </style>
+</head>
+<body>
+    <h1>For any query, email us at care@industrybuying.com or call us on +91 8448449073</h1>
+    <div id="nav">
+        <img src="./logo byfrom us.png" alt="BuyFromUs" id="logo">
+        <form >
+            <select name="All Categories" id="cat">
+                <option value="All Categories">All Categories</option>
+                <option value="Agriculture Garden & Landscaping">Agriculture Garden & Landscaping</option>
+                <option value="Power Tools">Power Tools</option>
+                <option value="Office Supplies">Office Supplies</option>
+                <option value="Material Handling & Packaging">Material Handling & Packaging</option>
+                <option value="Pumps">Pumps</option>
+                <option value="Automotive Maintenance & Accessories">Automotive Maintenance & Accessories</option>
+                <option value="Hand Tools">Hand Tools</option>
+                <option value="Electronics">Electronics</option>
+                <option value="Electrical">Electrical</option>
+                <option value="Cleaning">Cleaning</option>
+            </select>
+            <input type="text" placeholder="Search Products by title,supplier,sku,category,b" id="searchbox">
+            <button type="submit"><img src="./search.png" alt=""></button>
+        </form>
+        <button id="a">Login/Register</button>
+        <a href="">Cart</a>
+        <a href="" id="down"><img src="./playstore.png" alt=""></a>
+
+    </div>
+</body>
+</html>
